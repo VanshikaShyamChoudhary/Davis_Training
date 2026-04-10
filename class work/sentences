@@ -1,0 +1,17 @@
+# program for writing data into the file
+# opening file for write operation
+filev = open("first file. txt:", "w")
+##writing fove sentences into the file
+print (" Enter any five sentence")
+ x in range (5)
+ # input of data from user
+ sentence = input()
+# inserting the sentence into the list
+sentences.sentences.append( sentence)
+print("--------------")
+#--------------------
+#write data into the file
+filev writelines(sentences)
+print ("Data successfully written")
+# closing the file
+filev. close
