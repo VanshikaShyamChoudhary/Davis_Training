@@ -1,0 +1,11 @@
+student_id,gender,parental_education,test_prep_course,average_score
+20,male,associate's degree,completed,97.8
+6,female,some college,completed,97.5
+239,female,some college,completed,97.2
+569,female,associate's degree,completed,97.1
+421,female,some college,completed,96.7
+559,female,some college,completed,96.2
+223,female,bachelor's degree,completed,95.9
+301,female,master's degree,completed,95.8
+94,male,associate's degree,completed,95.5
+509,male,some high school,completed,95.5
